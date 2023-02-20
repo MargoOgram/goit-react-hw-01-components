@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MargoOgram/goit-react-hw-01-components/static/css/main.aaec09e1.css",
-    "main.js": "/MargoOgram/goit-react-hw-01-components/static/js/main.5e0b7be4.js",
+    "main.css": "/MargoOgram/goit-react-hw-01-components/static/css/main.917ea98c.css",
+    "main.js": "/MargoOgram/goit-react-hw-01-components/static/js/main.1702fa37.js",
     "index.html": "/MargoOgram/goit-react-hw-01-components/index.html",
-    "main.aaec09e1.css.map": "/MargoOgram/goit-react-hw-01-components/static/css/main.aaec09e1.css.map",
-    "main.5e0b7be4.js.map": "/MargoOgram/goit-react-hw-01-components/static/js/main.5e0b7be4.js.map"
+    "main.917ea98c.css.map": "/MargoOgram/goit-react-hw-01-components/static/css/main.917ea98c.css.map",
+    "main.1702fa37.js.map": "/MargoOgram/goit-react-hw-01-components/static/js/main.1702fa37.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaec09e1.css",
-    "static/js/main.5e0b7be4.js"
+    "static/css/main.917ea98c.css",
+    "static/js/main.1702fa37.js"
   ]
 }
